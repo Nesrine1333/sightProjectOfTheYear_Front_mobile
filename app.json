@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "projetIEEE",
+    "slug": "projetIEEE",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ieee.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo_app.png",
+      "resizeMode": "contain",
+      
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "usesCustomFonts": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
